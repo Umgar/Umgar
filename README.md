@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umgar, a student from Poland.
 - 👀 I’m interested in developing games and backend!
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on awsome project, that I found interesing.
 - 👨‍🎓 Currently doing CS50AI Harvard course 
 <!---
